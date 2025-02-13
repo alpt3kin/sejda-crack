@@ -15,7 +15,7 @@ Before you start, make sure you have the following requirements:
 - At launch, Sejda Pro will appear first, but will later appear as a free trial.
 - The built-in firewall in the Mac operating system only blocks incoming connections and does not work very effectively.
 - For this reason, unlike the Windows operating system, 3rd party firewall applications are preferred for Mac OS. LuLu is at the top of the list.
-- You can download the LuLu firewall software from this link [here]([https://objective-see.org/products/lulu.html]).
+- You can download the LuLu firewall software from this link [here](https://objective-see.org/products/lulu.html)
 - To install LuLu, first download the installation file containing the application. Then double-click LuLu.dmg and drag LuLu.app to the Applications folder
 - After copying LuLu to the Applications folder, start the program to continue the installation.
 - Authorize the application by following the instructions that follow.
